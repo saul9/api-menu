@@ -9,14 +9,14 @@
  #### install mongo db
  #### create this collection   
 
-   {
-     "_id" : ObjectId("5cedd3c46269436a2845f390"),
-     "id" : "343",
-     "name" : "nombreprueba",
-     "price" : "$$78328.99",
-     "description" : "description",
-     "border" : "none"
-   }
+       {
+         "_id" : ObjectId("5cedd3c46269436a2845f390"),
+         "id" : "343",
+         "name" : "nombreprueba",
+         "price" : "$$78328.99",
+         "description" : "description",
+         "border" : "none"
+       }
    
 
 ## clone the repository and enter to folder and execute the following:
